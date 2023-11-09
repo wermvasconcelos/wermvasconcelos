@@ -37,7 +37,7 @@
 </div>
 <h3 align="left">My GitHub account:</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osmarlimaag&size_weight=0.1&count_weight=0.1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wermvasconcelos&size_weight=0.1&count_weight=0.1)
 
 <p>&nbsp;<img align="center" widht="20%" src="https://github-readme-stats.vercel.app/api?username=wermvasconcelos&show_icons=true&locale=en" alt="wermvasconcelos" /></p>
 
